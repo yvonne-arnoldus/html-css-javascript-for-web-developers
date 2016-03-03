@@ -1,0 +1,16 @@
+a,
+a:visted {
+  color: crimson;
+}
+a:hover {
+  color: aquamarine;
+}
+.well {
+  background-color: darkgray;
+}
+@media (max-width: 768px) {
+  .navbar-default .navbar-collapse,
+  .navbar-default .navbar-form {
+    background-color: azure;
+  }
+}
